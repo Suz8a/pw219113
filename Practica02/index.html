@@ -5,12 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Practica02 CSS</title>
+    <link rel="stylesheet" href="css/estilos.css">
 </head>
 <body>
     <header>
         <img src="img/banner.png" alt="">
-        <img src="img/granthams.png" alt="">
-        <img src="img/paint.png" alt="">
+        <img src="img/granthams.png" alt=""id="granthams">
+        <img src="img/paint.png" alt="" id="paint">
         <input type="search" placeholder="Search">
         <nav>
             <ul>
@@ -22,12 +23,15 @@
             </ul>
         </nav>
     </header>
-    <section>
+    <section id="primerSeccion">
         <article>
             <img src="img/slide.jpg" alt="">
         </article>
-        <article>
-            We can offer.. <br>
+        <article id="secc01art01">
+            <span class="colorRosa letraGrande nito">
+                We can offer..
+            </span>  
+            <br>
             <ul>
                 <li>highly Competitive prices</li>
                 <li>Variable Data</li>
@@ -38,28 +42,39 @@
                 <li>Monthly Offers</li>
                 <li>Great Customer Service</li>
             </ul>
+        </article id="secc02art02">
+        <img src="img/bg_offer.png" alt="" id="bgOffer">
+    </section>
+    <section id="segundaSeccion">
+        <article>
+            <span class="colorRosa letraMediana nito">
+                    01772250207
+            </span> 
         </article>
-        <img src="img/bg_offer.png" alt="">
     </section>
-    <section>
-        <article>01772250207</article>
-    </section>
-    <section>
+    <section id="terceraSeccion">
         <article>
             <img src="img/cerdito.png" alt="">
-            Save this Spring
+            <span class="colorRosa nito">
+                Save this Spring
+            </span>
             <br>
             <p>
-                Fabulous discounts on canvas's and roll up's as well
-                as many other Offers.
+                <span>
+                    Fabulous discounts on canvas's and roll up's as well
+                    as many other Offers.
+                </span>
             </p>
-            <span>
+            <span class="colorRosa">
                 Find out more..
             </span>
         </article>
         <article>
             <img src="img/hoja.png" alt="">
-            ECO Friendly
+            <span class="colorVerde nito">
+                ECO Friendly
+            </span>
+            
             <br>
             <p>
                 ECO friendly Materials used in our production
@@ -71,7 +86,10 @@
         </article>
         <article>
             <img src="img/new.png" alt="">
-            Upload your file 
+            <span class="colorAzul nito">
+                Upload your file 
+            </span>
+            
             <br>
             <p>
                 Making it easy to order your printing today.
@@ -79,12 +97,14 @@
                 the notes section to inform us of your order, then sit back and wait
                 for a member of our team to contact you.
             </p>
-            <span>
+            <span class="colorAzul">
                 Upload Your File Now.. 
             </span>
         </article>
         <article>
-            Stay in touch
+            <span class="colorRosa letraMediana">
+                Stay in touch
+            </span>
             <br>
             Join our mailing list today
             <br>
