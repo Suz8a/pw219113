@@ -44,8 +44,11 @@ section article{
 }
 
 section img{
+    position: relative;
     width: 150spx;
-    height: 100px;
+    height: 75px;
+    top: -29px;
+    left: -58px;
 }
 
 #searchInput{
@@ -53,28 +56,56 @@ section img{
     padding-top: 10px;
 }
 
-.size{
-    width: 211px;
-    height: 284px;  
-    padding: 25px 15px;
+#bigLetter{
+    font-size: 1.7em;
+}
+#smallLetter{
+    font-size: .65em;
 }
 
-.Secc01art01{
-    background-color: green;
-    width: 313px;
+.mediumLetter{
+    font-size: .8em;
+}
+
+.white{
+    color: white;
+}
+
+.nito{
+    font-weight: bold;
+}
+
+.size{
+    width: 177px;
+    height: 234px;
+    padding: 25px 17.2px;
+    line-height: 1.1em;
+}
+
+.Secc01art01 {
+    width: 230px;
     height: 284px;
+    color: #878787;
+    font-style: italic;
+    padding-left: 88px;
+    padding-top: 32px;
+    line-height: 1.7em;
 }
 
 .Secc01art02{
     background-color: #b4d052;
+    color: white;
 }
 .Secc01art03{
     background-color: #545454;
+    color: #9d9d9d;
 }
 .Secc01art04{
     background-color: #d42d3f;
+    color: white;
 }
 .Secc01art05{
     background-color: #e4e4e4;
+    color: #787878;
 }
 
