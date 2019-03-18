@@ -1,7 +1,7 @@
 body{
     margin: 0px auto;
     min-width: 960px;
-    max-width: 1180px;
+    max-width: 1187px;
 }
 
 header{
@@ -109,3 +109,47 @@ section img{
     color: #787878;
 }
 
+.boxRightBotton {
+    background-color: black;
+    opacity: 0.2;
+    float: right;
+    position: relative;
+    text-align: center;
+    width: 37px;
+    height: 21px;
+    right: -17px;
+    bottom: -28px;
+    font-size: 1.5em;
+    font-style: italic;
+    padding-top: 5px;
+}
+
+.boxRightBottonArt04{
+    background-color: black;
+    opacity: 0.2;
+    float: right;
+    position: relative;
+    text-align: center;
+    width: 37px;
+    height: 21px;
+    right: -17px;
+    bottom: -51px;
+    font-size: 1.5em;
+    font-style: italic;
+    padding-top: 5px;
+}
+
+.boxRightBottonArt05{
+    background-color: black;
+    opacity: 0.2;
+    float: right;
+    position: relative;
+    text-align: center;
+    width: 37px;
+    height: 21px;
+    right: -18px;
+    bottom: -6px;
+    font-size: 1.5em;
+    font-style: italic;
+    padding-top: 5px;
+}
