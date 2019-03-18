@@ -2,7 +2,7 @@ body{
 	font-size: 16px; /*1em*/
 	margin: 0px auto;
 	min-width: 1078px;
-	max-width: 1078px
+	max-width: 1200px
 }
 header input{
 	float: right;
