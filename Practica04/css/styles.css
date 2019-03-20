@@ -1,0 +1,160 @@
+body{
+    margin: 0px auto;
+    background-color: white;
+    max-width: 1024px; 
+}
+
+header{
+    height: 194px;
+    border-bottom: 2px solid lightgray;
+    border-bottom-style: dotted;
+}
+
+header article{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.hArt02{
+    height: 180px;
+    padding-left: 150px;
+    width: 364px
+}
+
+header article ul{
+    margin-top: 50px; 
+}
+
+header article ul li{
+    display: inline-block;
+    margin-left: 5px;
+}
+
+footer{
+    color: #999999;
+}
+
+footer article{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.footerArt01{
+    margin-left: 40px;
+}
+
+.letraChica{
+    font-size: .8em;
+}
+
+.letraMediana{
+    font-size: 1.2em;
+}
+
+.marginLeft{
+    padding-left: 60px;
+}
+.base{
+    border-bottom: 1px solid lightgray;
+    border-bottom-style: dotted;
+}
+.secc02 article{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+}
+
+.secc02art01{
+    width: 529px;
+    margin-left: 40px;
+}
+
+.parrafo{
+    font-size: .8em;
+    line-height: 1.5em;
+    margin: 30px 0px;
+}
+
+.logosC{
+    margin-left: 40px;
+    height: 30px;
+    position: relative;
+    top: -14px;
+}
+.videos{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.copy{
+    position: relative;
+    top: -25px;
+    color: #686868;
+}
+
+.videos img{
+    width: 249px;
+    height: 175px;
+}
+
+.video02{
+    margin-left: 19px;
+}
+
+.firstBike{
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 150px;
+    height: 50px;
+}
+
+.firstSense{
+    font-size: 4em;
+    border-bottom: 2px solid lightgray;
+    border-bottom-style: dotted;
+}
+
+.bike{
+    width: 409px;
+    height: 492px;
+    margin-left: 24px;
+    position: relative;
+    top: -20px;
+}
+
+.gray{
+    color: #818181;
+}
+
+.warranty{
+    width: 144px;
+    height: 77px;
+    position: relative;
+    left: 29px;
+    top: -112px;
+}
+
+.miniLogos{
+    margin-left: 270px;
+    margin-top: 5px;
+}
+
+.green{
+    color: #73f33d;
+}
+
+.logos{
+    width: 25px;
+    height: 25px;
+}
+.buy{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 56px;
+    right: 280px;
+}
+
+.nito{
+    font-weight: bold;
+}
