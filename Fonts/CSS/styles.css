@@ -1,0 +1,12 @@
+@font-face{
+    font-family: ZCOOL;
+    src: url("ZCOOL_XiaoWei/ZCOOLXiaoWei-Regular.ttf")
+}
+
+#textoReferenciado{
+    font-family: 'Baloo Chettan', cursive;
+}
+
+#textoDescargado{
+    font-family: 'ZCOOL XiaoWei', serif;
+}
