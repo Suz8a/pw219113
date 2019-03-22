@@ -1,0 +1,198 @@
+header{
+    max-width: 1671px;
+    height: 500px;
+    margin: 0px auto; 
+    background-color:#606060; 
+
+}
+
+header article{
+    display: inline-block;
+    vertical-align: top;
+    float: left;
+}
+
+footer article{
+    display: inline-block;
+    vertical-align: top;
+    float: left;
+    height: 250px;
+}
+
+footer{
+    max-width: 1671px;
+    height: 500px;
+    margin: 0px auto; 
+    
+}
+
+.art01 article{
+    background-color: #f2efef;
+    float: left;
+}
+
+.art02 {
+    background-color: #606060;
+}
+
+.twitter{
+    position: relative;
+    top: 92px;
+    left: 188px;
+    width: 50px;
+}
+.anyQ{
+    font-family: 'Lato', sans-serif;
+}
+
+.meet{
+    font-family: 'Lato', sans-serif;
+}
+
+.footerArt01{
+    background-color: aqua;
+    float: left;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.footerArt02{
+    background-color: #d1ddcf;
+    color: black;
+    padding: 100px 100px;
+    height: 50px;
+    width: 233px;
+    text-align: center;
+}
+
+.footerArt03{
+    background-color: #787777;
+    color: white;
+    padding: 100px 100px;
+    height: 50px;
+    width: 288px;
+    text-align: center;
+}
+
+.footerTwitter{
+    width: 50px;
+    background-color: #55acee;
+}
+.collections{
+    background-color: #55acee;
+    padding: 100px 200px;
+    width: 300px;
+    height: 50px;
+    color: white;
+}
+
+.britishArticle{
+    background-color: #606060;
+}
+
+.british{
+    color: white;
+}
+
+.britainIs{
+    color: gainsboro;
+}
+.learn{
+    position: relative;
+    top: 33px;
+    width: 120px;
+    height: 39px;
+    padding: 8px;
+    border: 2px  solid;
+    background-color: #f2efef;
+    border-radius: 20px;
+}
+.getIn{
+    position: relative;
+    width: 120px;
+    height: 39px;
+    padding: 8px;
+    border: 2px solid;
+    background-color: #d1ddcf;
+    border-radius: 20px;
+}
+.zoe{
+    position: relative;
+    width: 120px;
+    height: 39px;
+    padding: 8px;
+    border: 2px  solid white;
+    background-color: #787777;
+    border-radius: 20px;
+    color: white;
+}
+.find{
+    position: relative;
+    top: 33px;
+    width: 120px;
+    height: 39px;
+    padding: 8px;
+    border: 2px  solid white;
+    background-color: #606060;
+    border-radius: 20px;
+    color: white;
+}
+.commission{
+    font-family: 'Libre Baskerville', serif;
+}
+.weAre{
+    font-family: 'Open Sans', sans-serif;
+    color: #575757;
+}
+
+.archivo{
+    font-family: 'Archivo Black', sans-serif;
+}
+
+
+.art01{
+    
+    padding-left: 200px;
+    padding-top: 40px;
+    background-color: #f2efef;
+
+}
+
+.art02{
+    background-color: #606060;;
+    height: 387px;
+    margin-top: 157px;
+    text-align: center;
+    padding: 0px 140px;
+    width: 300px;
+}
+
+.nito{
+    font-weight: bold;
+}
+
+
+.bigLetter{
+    font-size: 2em;
+}
+
+.mediumLetter{
+
+}
+.smallLetter{
+    line-height: 1.5em;
+    font-size: .9em;
+}
+
+.rightPerson{
+    padding: 0px 150px;
+    margin-top: 120px;
+    text-align: center;
+    height: 300px;
+    width: 335px;
+}
+
+.persona{
+    height: 500px;
+}
+
